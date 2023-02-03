@@ -5,7 +5,7 @@ I'm currently working on computational optics topics.
 A lot of my previous work was implemented in JuliaLang.
 
 
-## Julia
+## Julia Lang
 Some of my larger packages:
 * [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) for performant data deconvolution
 * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) to efficiently work with Fourier space
@@ -20,6 +20,7 @@ Kind of outdated:
 
 ## Python
 * [orpheuscc](https://github.com/orpheusverein/orpheuscc) to manage event registrations of the Orpheus e.V. Written in Python + Django
+* [Naive implementation](https://github.com/roflmaostc/Fast-Approximate-Energy-Minimization-via-Graph-Cuts) of energy minimization with graph cuts. 
 
 ## OCaml
 * [PONGCaml](https://github.com/roflmaostc/PONGCaml) simple and easy pong came written in OCaml
