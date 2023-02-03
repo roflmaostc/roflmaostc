@@ -4,7 +4,7 @@ I'm currently working on computational optics topics.
 
 A lot of my previous work was implemented in JuliaLang.
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roflmaostcs)](https://github.com/roflmaostcs/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roflmaostc)](https://github.com/roflmaostcs/github-readme-stats)
 
 
 ## Julia Lang
