@@ -2,7 +2,7 @@
 
 I'm currently working on computational optics topics.
 
-A lot of my previous work was implemented in JuliaLang.
+A lot of my previous work was implemented in JuliaLang. I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/). 
 
 [![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roflmaostc)](https://github.com/roflmaostcs/github-readme-stats)
 
@@ -21,7 +21,7 @@ Kind of outdated:
 
 
 ## Python
-* [orpheuscc](https://github.com/orpheusverein/orpheuscc) to manage event registrations of the Orpheus e.V. Written in Python + Django
+* [orpheuscc](www.orpheus-verein.de) to manage event registrations of the Orpheus e.V. Written in Python + Django
 * [Naive implementation](https://github.com/roflmaostc/Fast-Approximate-Energy-Minimization-via-Graph-Cuts) of energy minimization with graph cuts. 
 
 ## OCaml
