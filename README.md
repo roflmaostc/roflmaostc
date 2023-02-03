@@ -4,7 +4,7 @@ I'm currently working on computational optics topics.
 
 A lot of my previous work was implemented in JuliaLang. I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/). 
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roflmaostc)](https://github.com/roflmaostcs/github-readme-stats)
+[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roflmaostc)](https://github.com/roflmaostc/github-readme-stats)
 
 
 ## Julia Lang
