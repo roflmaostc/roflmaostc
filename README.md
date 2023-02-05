@@ -1,6 +1,6 @@
 ## Felix Wechsler
 
-I'm currently working on computational optics topics.
+I'm currently working on computational optics topics. Feel free to visit my [webpage](https://felixwechsler.science/) for more information.
 
 A lot of my previous work was implemented in JuliaLang. I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/) + [Vim](https://www.vim.org/).
 
