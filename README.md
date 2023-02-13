@@ -1,8 +1,8 @@
 ## Felix Wechsler
 
-I'm currently working on computational optics topics. Feel free to visit my [webpage](https://felixwechsler.science/) for more information.
+I'm currently working on computational optics topics such as 3D printing with light or wave propagation. Feel free to visit my [webpage](https://felixwechsler.science/) for more information.
 
-A lot of my previous work was implemented in JuliaLang. I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/) + [Vim](https://www.vim.org/).
+A lot of my previous work is implemented in JuliaLang. I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/) + [Vim](https://www.vim.org/).
 
 [![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roflmaostc)]
 
