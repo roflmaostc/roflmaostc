@@ -21,7 +21,7 @@ Kind of outdated:
 
 
 ## Python
-* [orpheuscc](www.orpheus-verein.de) to manage event registrations of the Orpheus e.V. Written in Python + Django
+* [orpheuscc](https://www.orpheus-verein.de) to manage event registrations of the Orpheus e.V. Written in Python + Django
 * [Naive implementation](https://github.com/roflmaostc/Fast-Approximate-Energy-Minimization-via-Graph-Cuts) of energy minimization with graph cuts. 
 
 ## OCaml
