@@ -4,8 +4,6 @@ I'm currently working on computational optics topics such as 3D printing with li
 
 A lot of my previous work is implemented in JuliaLang. I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/) + [Vim](https://www.vim.org/).
 
-[![Felix's GitHub stats](https://github-readme-stats.vercel.app/api?username=roflmaostc)]()
-
 
 ## Julia Lang
 Some of my larger packages:
