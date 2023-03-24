@@ -2,7 +2,7 @@
 
 I'm currently working on computational optics topics such as 3D printing with light or wave propagation. Feel free to visit my [webpage](https://felixwechsler.science/) for more information.
 
-A lot of my previous work is implemented in JuliaLang. I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/) + [Vim](https://www.vim.org/).
+A lot of my work is implemented in [Julia Lang](https://julialang.org/). I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/) + [Vim](https://www.vim.org/).
 
 
 ## Julia Lang
