@@ -7,6 +7,7 @@ A lot of my work is implemented in [Julia Lang](https://julialang.org/). I mainl
 
 ## Julia Lang
 Some of my larger packages:
+
 * [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) for performant data deconvolution
 * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) to efficiently work with Fourier space
 * [NDTools.jl](https://github.com/bionanoimaging/NDTools.jl) to manage N dimensional data 
