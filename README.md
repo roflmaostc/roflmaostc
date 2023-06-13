@@ -4,6 +4,8 @@ I'm currently working on computational optics topics such as 3D printing with li
 
 A lot of my work is implemented in [Julia Lang](https://julialang.org/). I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/) + [Vim](https://www.vim.org/).
 
+## Scientific Code
+* [Scalable Angular Spectrum](https://github.com/bionanoimaging/Scalable-Angular-Spectrum-Method-SAS) for optical wave propagation.
 
 ## Julia Lang
 Some of my larger packages:
