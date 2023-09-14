@@ -14,6 +14,7 @@ Some of my larger packages:
 * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) to efficiently work with Fourier space
 * [NDTools.jl](https://github.com/bionanoimaging/NDTools.jl) to manage N dimensional data 
 * [PtyLab.jl](https://github.com/PtyLab/PtyLab.jl) to reconstruct Ptychography datasets
+* [ABCDMatrixOptics.jl](https://github.com/JuliaPhysics/ABCDMatrixOptics.jl) to trace Geometrical and Gaussian beams with matrices
 * [Noise.jl](https://github.com/roflmaostc/Noise.jl) to degrade your data quality
 * [IndexFunArrays](https://github.com/bionanoimaging/IndexFunArrays.jl) to create arrays according to index specific behaviour
 
