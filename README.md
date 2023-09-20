@@ -29,3 +29,6 @@ Kind of outdated:
 ## OCaml
 * [PONGCaml](https://github.com/roflmaostc/PONGCaml) simple and easy pong game written in OCaml
 * Solved almost all [99 OCaml problems](https://github.com/roflmaostc/99-OCaml-Problems)
+
+## Toy projects
+* [aiornot.fun](https://github.com/roflmaostc/aiornot.fun): A quiz to test your knowledge whether you're able to idenfity an AI paper or non AI paper.
