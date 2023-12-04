@@ -11,6 +11,7 @@ A lot of my work is implemented in [Julia Lang](https://julialang.org/). I mainl
 Some of my larger packages:
 
 * [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) for performant data deconvolution
+* [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) for (exponential) Radon transforms
 * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) to efficiently work with Fourier space
 * [NDTools.jl](https://github.com/bionanoimaging/NDTools.jl) to manage N dimensional data 
 * [PtyLab.jl](https://github.com/PtyLab/PtyLab.jl) to reconstruct Ptychography datasets
