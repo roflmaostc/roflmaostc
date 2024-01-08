@@ -10,17 +10,18 @@ A lot of my work is implemented in [Julia Lang](https://julialang.org/). I mainl
 ## Julia Lang
 Some of my larger packages:
 
+* [ABCDMatrixOptics.jl](https://github.com/JuliaPhysics/ABCDMatrixOptics.jl) to trace Geometrical and Gaussian beams with matrices
 * [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) for performant data deconvolution
 * [DiffImageRotation.jl](https://github.com/roflmaostc/DiffImageRotation.jl) for CUDA, differentiable image rotation
-* [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) for (exponential) Radon transforms
 * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) to efficiently work with Fourier space
-* [NDTools.jl](https://github.com/bionanoimaging/NDTools.jl) to manage N dimensional data 
-* [PtyLab.jl](https://github.com/PtyLab/PtyLab.jl) to reconstruct Ptychography datasets
-* [ABCDMatrixOptics.jl](https://github.com/JuliaPhysics/ABCDMatrixOptics.jl) to trace Geometrical and Gaussian beams with matrices
-* [Noise.jl](https://github.com/roflmaostc/Noise.jl) to degrade your data quality
 * [IndexFunArrays](https://github.com/bionanoimaging/IndexFunArrays.jl) to create arrays according to index specific behaviour
+* [NDTools.jl](https://github.com/bionanoimaging/NDTools.jl) to manage N dimensional data
+* [Noise.jl](https://github.com/roflmaostc/Noise.jl) to degrade data quality
+* [PtyLab.jl](https://github.com/PtyLab/PtyLab.jl) to reconstruct Ptychography datasets
+* [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) for (exponential) Radon transforms
+* [WaveOpticsPropagation.jl](https://github.com/JuliaPhysics/WaveOpticsPropagation.jl) for differentiable wave optical propagation
 
-Kind of outdated:
+Outdated:
 * [PhysicalOptics.jl](https://github.com/JuliaPhysics/PhysicalOptics.jl) to simulate wave optics
 
 
