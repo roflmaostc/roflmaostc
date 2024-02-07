@@ -18,7 +18,7 @@ Some of my larger packages:
 * [NDTools.jl](https://github.com/bionanoimaging/NDTools.jl) to manage N dimensional data
 * [Noise.jl](https://github.com/roflmaostc/Noise.jl) to degrade data quality
 * [PtyLab.jl](https://github.com/PtyLab/PtyLab.jl) to reconstruct Ptychography datasets
-* [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) for (exponential) Radon transforms
+* [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) for (exponential/attenuated) Radon transforms
 * [WaveOpticsPropagation.jl](https://github.com/JuliaPhysics/WaveOpticsPropagation.jl) for differentiable wave optical propagation
 
 Outdated:
