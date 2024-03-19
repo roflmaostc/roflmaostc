@@ -7,6 +7,7 @@ A lot of my work is implemented in [Julia Lang](https://julialang.org/). I mainl
 
 ## Scientific Code
 * [Scalable Angular Spectrum](https://github.com/bionanoimaging/Scalable-Angular-Spectrum-Method-SAS) for optical wave propagation.
+* [SwissVAMyKnife.jl](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl)
 
 ## Julia Lang
 Some of my larger packages:
