@@ -5,15 +5,15 @@ I'm currently working on computational optics topics such as 3D printing with li
 A lot of my work is implemented in [Julia Lang](https://julialang.org/). I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/) + [Vim](https://www.vim.org/).
 
 
-## Scientific Code
+## Published Code
+* [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) for performant data deconvolution
 * [Scalable Angular Spectrum](https://github.com/bionanoimaging/Scalable-Angular-Spectrum-Method-SAS) for optical wave propagation.
 * [SwissVAMyKnife.jl](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) to solve optimizations around Tomographic Volumetric Additive Manufacturing
+* [WaveOpticsPropagation.jl](https://github.com/JuliaPhysics/WaveOpticsPropagation.jl) for differentiable wave optical propagation
 
 ## Julia Lang
-Some of my larger packages:
-
+Some of my smaller packages:
 * [ABCDMatrixOptics.jl](https://github.com/JuliaPhysics/ABCDMatrixOptics.jl) to trace Geometrical and Gaussian beams with matrices
-* [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) for performant data deconvolution
 * [DiffImageRotation.jl](https://github.com/roflmaostc/DiffImageRotation.jl) for CUDA, differentiable image rotation
 * [FourierTools.jl](https://github.com/bionanoimaging/FourierTools.jl) to efficiently work with Fourier space
 * [IndexFunArrays](https://github.com/bionanoimaging/IndexFunArrays.jl) to create arrays according to index specific behaviour
@@ -21,7 +21,6 @@ Some of my larger packages:
 * [Noise.jl](https://github.com/roflmaostc/Noise.jl) to degrade data quality
 * [PtyLab.jl](https://github.com/PtyLab/PtyLab.jl) to reconstruct Ptychography datasets
 * [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) for (exponential/attenuated) Radon transforms
-* [WaveOpticsPropagation.jl](https://github.com/JuliaPhysics/WaveOpticsPropagation.jl) for differentiable wave optical propagation
 
 Outdated:
 * [PhysicalOptics.jl](https://github.com/JuliaPhysics/PhysicalOptics.jl) to simulate wave optics
