@@ -5,8 +5,9 @@ I'm currently working on computational optics topics such as 3D printing with li
 A lot of my work is implemented in [Julia Lang](https://julialang.org/). I mainly use [Arch Linux](https://archlinux.org/) + [AwesomeWM](https://awesomewm.org/) + [Vim](https://www.vim.org/).
 
 
-## Published Code
+## Code of Scientific Publications
 * [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) for performant data deconvolution
+* [PtyLab.jl](https://github.com/PtyLab/PtyLab.jl) to reconstruct Ptychography datasets
 * [Scalable Angular Spectrum](https://github.com/bionanoimaging/Scalable-Angular-Spectrum-Method-SAS) for optical wave propagation.
 * [SwissVAMyKnife.jl](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) to solve optimizations around Tomographic Volumetric Additive Manufacturing
 * [WaveOpticsPropagation.jl](https://github.com/JuliaPhysics/WaveOpticsPropagation.jl) for differentiable wave optical propagation
@@ -19,7 +20,7 @@ Some of my smaller packages:
 * [IndexFunArrays](https://github.com/bionanoimaging/IndexFunArrays.jl) to create arrays according to index specific behaviour
 * [NDTools.jl](https://github.com/bionanoimaging/NDTools.jl) to manage N dimensional data
 * [Noise.jl](https://github.com/roflmaostc/Noise.jl) to degrade data quality
-* [PtyLab.jl](https://github.com/PtyLab/PtyLab.jl) to reconstruct Ptychography datasets
+* [PrecompileAfterUpdate.jl](https://github.com/roflmaostc/PrecompileAfterUpdate.jl) to save time after updating Julia versions
 * [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) for (exponential/attenuated) Radon transforms
 
 Outdated:
