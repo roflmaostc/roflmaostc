@@ -20,7 +20,7 @@ Some of my smaller packages:
 * [IndexFunArrays](https://github.com/bionanoimaging/IndexFunArrays.jl) to create arrays according to index specific behaviour
 * [NDTools.jl](https://github.com/bionanoimaging/NDTools.jl) to manage N dimensional data
 * [Noise.jl](https://github.com/roflmaostc/Noise.jl) to degrade data quality
-* [PrecompileAfterUpdate.jl](https://github.com/roflmaostc/PrecompileAfterUpdate.jl) to save time after updating Julia versions
+* [PrecompileAfterUpdate.jl](https://github.com/roflmaostc/PrecompileAfterUpdate.jl) to save time (in the future) after updating Julia versions
 * [RadonKA.jl](https://github.com/roflmaostc/RadonKA.jl) for (exponential/attenuated) Radon transforms
 
 Outdated:
