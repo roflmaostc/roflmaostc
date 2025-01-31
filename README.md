@@ -7,6 +7,7 @@ A lot of my work is implemented in [Julia Lang](https://julialang.org/). I mainl
 
 ## Code of Scientific Publications
 * [DeconvOptim.jl](https://github.com/roflmaostc/DeconvOptim.jl) for performant data deconvolution
+* [Dr. TVAM](https://github.com/rgl-epfl/drtvam) for optimizing ray-optical patterns for tomographic volumetric additive manufacturing (TVAM) is now available.
 * [PtyLab.jl](https://github.com/PtyLab/PtyLab.jl) to reconstruct Ptychography datasets
 * [Scalable Angular Spectrum](https://github.com/bionanoimaging/Scalable-Angular-Spectrum-Method-SAS) for optical wave propagation.
 * [SwissVAMyKnife.jl](https://github.com/EPFL-LAPD/SwissVAMyKnife.jl) to solve optimizations around Tomographic Volumetric Additive Manufacturing
